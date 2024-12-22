@@ -67,8 +67,8 @@ Open your browser and navigate to http://localhost:3000.
 │   ├── src/                   # React components and pages
 │   ├── .env                   # Frontend environment variables
 │   └── package.json           # Frontend dependencies
-└── README.md                  # Documentation```
-
+└── README.md                  # Documentation
+```
 
 **Future Enhancements**
 This project serves as a foundation for a larger user management system. Future updates might include:
