@@ -54,7 +54,7 @@ Open your browser and navigate to http://localhost:3000.
 **
 **Folder Structure
 
-project/
+```project/
 ├── backend/                   # Backend code (Node.js + Express)
 │   ├── controllers/           # API controllers
 │   ├── models/                # MongoDB models
@@ -67,7 +67,7 @@ project/
 │   ├── src/                   # React components and pages
 │   ├── .env                   # Frontend environment variables
 │   └── package.json           # Frontend dependencies
-└── README.md                  # Documentation
+└── README.md                  # Documentation```
 
 
 **Future Enhancements**
