@@ -17,34 +17,34 @@ Before running the project, ensure you have the following installed:
 
 Clone the Repository
 
-```git clone <repository_url>
+```git clone <repository_url>```
 ```cd project```
 
 **Setup Backend**
 
 Navigate to the backend directory:
-```cd backend
+```cd backend```
 
 **Install dependencies:**
-```npm install
+```npm install```
 Create a .env file in the backend directory and configure your environment variables:
 
-```PORT=5000
-```MONGO_URI=<your-mongodb-connection-string>
+```PORT=5000```
+```MONGO_URI=<your-mongodb-connection-string>```
 
 **Setup Frontend**
 
 Navigate to the student-management directory:
 
-```cd ../student-management
+```cd ../student-management```
 
 Install dependencies:
 
-```npm install
+```npm install```
 
 Start the frontend:
 
-```npm start
+```npm start```
 
 Access the Application
 
@@ -80,6 +80,7 @@ This project serves as a foundation for a larger user management system. Future 
 
 **Contributing**
 Contributions are welcome! Feel free to fork this repository and create a pull request.
+
 **
 License**
 This project is licensed under the MIT License. See the LICENSE file for details.
